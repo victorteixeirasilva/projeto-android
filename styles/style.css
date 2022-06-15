@@ -102,9 +102,6 @@ nav a:hover {
     transition-duration: 0.5s;
 }
 
-.externo::after {
-}
-
 main{
     background-color: white;
     margin: auto;
